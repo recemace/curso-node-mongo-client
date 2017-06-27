@@ -1,0 +1,5 @@
+angular-cli.json
+karma.conf.js
+package.json
+protractor.conf.js
+tslint.json
